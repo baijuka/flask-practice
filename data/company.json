@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Thorin Oakenshield",
+        "description": "Thorin II was born in TA 2746 to Dwarven prince Thráin II in the city of The Lonely Mountain. Early in his youth, he and the other Dwarves of the Lonely Mountain were forced to flee by the dragon Smaug in TA 2770. While in exile, he quickly grew to become a capable warrior. This was demonstrated when he participated in the Battle of Azanulbizar in TA 2799. He fought with one of the Dwarven armies beneath the East-gate of Moria. At some point in the fighting, his shield broke, and using an oaken tree branch found on the floor as a shield, he gained the epithet 'Oakenshield,' which would remain with him even in death.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/3/39/ThorinOakenshieldOfTheHobbit.jpeg"
+    },
+    {
+        "name": "Fili and Kili",
+        "description": "Fíli and Kíli were brothers, the youngest of the thirteen dwarves who set out with Thorin Oakenshield's company, along with Gandalf and Bilbo Baggins, to reclaim the Lonely Mountain from the dragon Smaug.",
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/b/b4/The-Hobbit-Fili-and-Kili.jpg"
+    }
+]
